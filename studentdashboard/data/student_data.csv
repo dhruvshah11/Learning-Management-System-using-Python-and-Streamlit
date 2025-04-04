@@ -1,0 +1,101 @@
+student_id,name,email,course,attendance_percentage,test1_score,test2_score,test3_score,assignments_completed,total_classes,classes_attended,gpa,extracurricular_activities,specialization,semester,batch_year
+500001,Aarav Sharma,500001.aarav@stu.upes.ac.in,B.Tech Computer Science,92.5,88,92,90,15,100,93,3.8,Robotics Club,AI & ML,6,2021
+500002,Diya Patel,500002.diya@stu.upes.ac.in,B.Tech Computer Science,88.0,85,88,86,14,100,88,3.6,Coding Club,Cybersecurity,6,2021
+500003,Arjun Singh,500003.arjun@stu.upes.ac.in,B.Tech Computer Science,95.0,94,96,95,15,100,95,3.9,Tech Society,Cloud Computing,6,2021
+500004,Zara Khan,500004.zara@stu.upes.ac.in,B.Tech Computer Science,87.5,82,85,84,13,100,88,3.5,Drama Club,DevOps,6,2021
+500005,Vihaan Reddy,500005.vihaan@stu.upes.ac.in,B.Tech Computer Science,91.0,89,90,92,14,100,91,3.7,Sports Club,Full Stack,6,2021
+500006,Ananya Gupta,500006.ananya@stu.upes.ac.in,B.Tech Computer Science,93.5,91,94,93,15,100,94,3.8,Dance Club,IoT,6,2021
+500007,Reyansh Kumar,500007.reyansh@stu.upes.ac.in,B.Tech Computer Science,86.0,80,84,83,12,100,86,3.4,Music Club,Mobile Dev,6,2021
+500008,Ishaan Malhotra,500008.ishaan@stu.upes.ac.in,B.Tech Computer Science,89.5,86,88,87,14,100,90,3.6,Photography Club,Big Data,6,2021
+500009,Aisha Verma,500009.aisha@stu.upes.ac.in,B.Tech Computer Science,94.0,92,95,94,15,100,94,3.9,Literary Club,AR/VR,6,2021
+500010,Kabir Joshi,500010.kabir@stu.upes.ac.in,B.Tech Computer Science,90.5,88,91,89,14,100,91,3.7,Debate Club,Game Dev,6,2021
+500011,Myra Saxena,500011.myra@stu.upes.ac.in,B.Tech Computer Science,88.5,84,87,86,13,100,89,3.5,Art Club,Web Dev,6,2021
+500012,Advait Chopra,500012.advait@stu.upes.ac.in,B.Tech Computer Science,92.0,90,93,91,15,100,92,3.8,Environment Club,AI & ML,6,2021
+500013,Saanvi Mehta,500013.saanvi@stu.upes.ac.in,B.Tech Computer Science,87.0,81,85,84,12,100,87,3.4,Social Service Club,Cybersecurity,6,2021
+500014,Vivaan Sinha,500014.vivaan@stu.upes.ac.in,B.Tech Computer Science,91.5,89,92,90,14,100,92,3.7,Robotics Club,Cloud Computing,6,2021
+500015,Anika Bhat,500015.anika@stu.upes.ac.in,B.Tech Computer Science,93.0,91,94,92,15,100,93,3.8,Coding Club,DevOps,6,2021
+500016,Dhruv Kapoor,500016.dhruv@stu.upes.ac.in,B.Tech Computer Science,89.0,85,88,87,13,100,89,3.6,Tech Society,Full Stack,6,2021
+500017,Riya Menon,500017.riya@stu.upes.ac.in,B.Tech Computer Science,94.5,93,96,94,15,100,95,3.9,Drama Club,IoT,6,2021
+500018,Arnav Choudhury,500018.arnav@stu.upes.ac.in,B.Tech Computer Science,90.0,87,90,88,14,100,90,3.7,Sports Club,Mobile Dev,6,2021
+500019,Avni Desai,500019.avni@stu.upes.ac.in,B.Tech Computer Science,92.5,90,93,91,15,100,93,3.8,Dance Club,Big Data,6,2021
+500020,Yuvan Nair,500020.yuvan@stu.upes.ac.in,B.Tech Computer Science,86.5,80,84,83,12,100,87,3.4,Music Club,AR/VR,6,2021
+500021,Aaradhya Roy,500021.aaradhya@stu.upes.ac.in,B.Tech Computer Science,91.0,88,91,89,14,100,91,3.7,Photography Club,Game Dev,6,2021
+500022,Krish Iyer,500022.krish@stu.upes.ac.in,B.Tech Computer Science,93.5,92,95,93,15,100,94,3.8,Literary Club,Web Dev,6,2021
+500023,Shanaya Rao,500023.shanaya@stu.upes.ac.in,B.Tech Computer Science,88.0,83,86,85,13,100,88,3.5,Debate Club,AI & ML,6,2021
+500024,Ved Sharma,500024.ved@stu.upes.ac.in,B.Tech Computer Science,92.0,89,92,90,14,100,92,3.7,Art Club,Cybersecurity,6,2021
+500025,Kyra Patel,500025.kyra@stu.upes.ac.in,B.Tech Computer Science,94.0,93,96,94,15,100,94,3.9,Environment Club,Cloud Computing,6,2021
+500026,Aarav Singh,500026.aarav@stu.upes.ac.in,B.Tech Computer Science,89.5,85,88,87,13,100,90,3.6,Social Service Club,DevOps,6,2021
+500027,Diya Khan,500027.diya@stu.upes.ac.in,B.Tech Computer Science,91.5,89,92,90,14,100,92,3.7,Robotics Club,Full Stack,6,2021
+500028,Arjun Reddy,500028.arjun@stu.upes.ac.in,B.Tech Computer Science,93.0,91,94,92,15,100,93,3.8,Coding Club,IoT,6,2021
+500029,Zara Gupta,500029.zara@stu.upes.ac.in,B.Tech Computer Science,87.5,82,85,84,12,100,88,3.4,Tech Society,Mobile Dev,6,2021
+500030,Vihaan Kumar,500030.vihaan@stu.upes.ac.in,B.Tech Computer Science,90.0,87,90,88,14,100,90,3.7,Drama Club,Big Data,6,2021
+500031,Ananya Malhotra,500031.ananya@stu.upes.ac.in,B.Tech Computer Science,92.5,90,93,91,15,100,93,3.8,Sports Club,AR/VR,6,2021
+500032,Reyansh Verma,500032.reyansh@stu.upes.ac.in,B.Tech Computer Science,88.5,84,87,86,13,100,89,3.5,Dance Club,Game Dev,6,2021
+500033,Ishaan Joshi,500033.ishaan@stu.upes.ac.in,B.Tech Computer Science,91.0,88,91,89,14,100,91,3.7,Music Club,Web Dev,6,2021
+500034,Aisha Saxena,500034.aisha@stu.upes.ac.in,B.Tech Computer Science,93.5,92,95,93,15,100,94,3.8,Photography Club,AI & ML,6,2021
+500035,Kabir Chopra,500035.kabir@stu.upes.ac.in,B.Tech Computer Science,89.0,85,88,87,13,100,89,3.6,Literary Club,Cybersecurity,6,2021
+500036,Myra Mehta,500036.myra@stu.upes.ac.in,B.Tech Computer Science,92.0,89,92,90,14,100,92,3.7,Debate Club,Cloud Computing,6,2021
+500037,Advait Sinha,500037.advait@stu.upes.ac.in,B.Tech Computer Science,94.0,93,96,94,15,100,94,3.9,Art Club,DevOps,6,2021
+500038,Saanvi Bhat,500038.saanvi@stu.upes.ac.in,B.Tech Computer Science,87.0,81,84,83,12,100,87,3.4,Environment Club,Full Stack,6,2021
+500039,Vivaan Kapoor,500039.vivaan@stu.upes.ac.in,B.Tech Computer Science,90.5,87,90,88,14,100,91,3.7,Social Service Club,IoT,6,2021
+500040,Anika Menon,500040.anika@stu.upes.ac.in,B.Tech Computer Science,93.0,91,94,92,15,100,93,3.8,Robotics Club,Mobile Dev,6,2021
+500041,Dhruv Choudhury,500041.dhruv@stu.upes.ac.in,B.Tech Computer Science,88.0,83,86,85,13,100,88,3.5,Coding Club,Big Data,6,2021
+500042,Riya Desai,500042.riya@stu.upes.ac.in,B.Tech Computer Science,91.5,89,92,90,14,100,92,3.7,Tech Society,AR/VR,6,2021
+500043,Arnav Nair,500043.arnav@stu.upes.ac.in,B.Tech Computer Science,93.5,92,95,93,15,100,94,3.8,Drama Club,Game Dev,6,2021
+500044,Avni Roy,500044.avni@stu.upes.ac.in,B.Tech Computer Science,89.5,85,88,87,13,100,90,3.6,Sports Club,Web Dev,6,2021
+500045,Yuvan Iyer,500045.yuvan@stu.upes.ac.in,B.Tech Computer Science,92.0,89,92,90,14,100,92,3.7,Dance Club,AI & ML,6,2021
+500046,Aaradhya Rao,500046.aaradhya@stu.upes.ac.in,B.Tech Computer Science,94.5,93,96,94,15,100,95,3.9,Music Club,Cybersecurity,6,2021
+500047,Krish Sharma,500047.krish@stu.upes.ac.in,B.Tech Computer Science,87.5,82,85,84,12,100,88,3.4,Photography Club,Cloud Computing,6,2021
+500048,Shanaya Patel,500048.shanaya@stu.upes.ac.in,B.Tech Computer Science,90.0,87,90,88,14,100,90,3.7,Literary Club,DevOps,6,2021
+500049,Ved Singh,500049.ved@stu.upes.ac.in,B.Tech Computer Science,92.5,90,93,91,15,100,93,3.8,Debate Club,Full Stack,6,2021
+500050,Kyra Khan,500050.kyra@stu.upes.ac.in,B.Tech Computer Science,88.5,84,87,86,13,100,89,3.5,Art Club,IoT,6,2021
+500051,Aarav Reddy,500051.aarav@stu.upes.ac.in,B.Tech Computer Science,91.0,88,91,89,14,100,91,3.7,Environment Club,Mobile Dev,6,2021
+500052,Diya Gupta,500052.diya@stu.upes.ac.in,B.Tech Computer Science,93.0,91,94,92,15,100,93,3.8,Social Service Club,Big Data,6,2021
+500053,Arjun Kumar,500053.arjun@stu.upes.ac.in,B.Tech Computer Science,89.0,85,88,87,13,100,89,3.6,Robotics Club,AR/VR,6,2021
+500054,Zara Malhotra,500054.zara@stu.upes.ac.in,B.Tech Computer Science,92.0,89,92,90,14,100,92,3.7,Coding Club,Game Dev,6,2021
+500055,Vihaan Verma,500055.vihaan@stu.upes.ac.in,B.Tech Computer Science,94.0,93,96,94,15,100,94,3.9,Tech Society,Web Dev,6,2021
+500056,Ananya Joshi,500056.ananya@stu.upes.ac.in,B.Tech Computer Science,87.0,81,84,83,12,100,87,3.4,Drama Club,AI & ML,6,2021
+500057,Reyansh Saxena,500057.reyansh@stu.upes.ac.in,B.Tech Computer Science,90.5,87,90,88,14,100,91,3.7,Sports Club,Cybersecurity,6,2021
+500058,Ishaan Chopra,500058.ishaan@stu.upes.ac.in,B.Tech Computer Science,93.5,92,95,93,15,100,94,3.8,Dance Club,Cloud Computing,6,2021
+500059,Aisha Mehta,500059.aisha@stu.upes.ac.in,B.Tech Computer Science,88.0,83,86,85,13,100,88,3.5,Music Club,DevOps,6,2021
+500060,Kabir Sinha,500060.kabir@stu.upes.ac.in,B.Tech Computer Science,91.5,89,92,90,14,100,92,3.7,Photography Club,Full Stack,6,2021
+500061,Myra Bhat,500061.myra@stu.upes.ac.in,B.Tech Computer Science,93.0,91,94,92,15,100,93,3.8,Literary Club,IoT,6,2021
+500062,Advait Kapoor,500062.advait@stu.upes.ac.in,B.Tech Computer Science,89.5,85,88,87,13,100,90,3.6,Debate Club,Mobile Dev,6,2021
+500063,Saanvi Menon,500063.saanvi@stu.upes.ac.in,B.Tech Computer Science,92.0,89,92,90,14,100,92,3.7,Art Club,Big Data,6,2021
+500064,Vivaan Choudhury,500064.vivaan@stu.upes.ac.in,B.Tech Computer Science,94.5,93,96,94,15,100,95,3.9,Environment Club,AR/VR,6,2021
+500065,Anika Desai,500065.anika@stu.upes.ac.in,B.Tech Computer Science,87.5,82,85,84,12,100,88,3.4,Social Service Club,Game Dev,6,2021
+500066,Dhruv Nair,500066.dhruv@stu.upes.ac.in,B.Tech Computer Science,90.0,87,90,88,14,100,90,3.7,Robotics Club,Web Dev,6,2021
+500067,Riya Roy,500067.riya@stu.upes.ac.in,B.Tech Computer Science,92.5,90,93,91,15,100,93,3.8,Coding Club,AI & ML,6,2021
+500068,Arnav Iyer,500068.arnav@stu.upes.ac.in,B.Tech Computer Science,88.5,84,87,86,13,100,89,3.5,Tech Society,Cybersecurity,6,2021
+500069,Avni Rao,500069.avni@stu.upes.ac.in,B.Tech Computer Science,91.0,88,91,89,14,100,91,3.7,Drama Club,Cloud Computing,6,2021
+500070,Yuvan Sharma,500070.yuvan@stu.upes.ac.in,B.Tech Computer Science,93.0,91,94,92,15,100,93,3.8,Sports Club,DevOps,6,2021
+500071,Aaradhya Patel,500071.aaradhya@stu.upes.ac.in,B.Tech Computer Science,89.0,85,88,87,13,100,89,3.6,Dance Club,Full Stack,6,2021
+500072,Krish Singh,500072.krish@stu.upes.ac.in,B.Tech Computer Science,92.0,89,92,90,14,100,92,3.7,Music Club,IoT,6,2021
+500073,Shanaya Khan,500073.shanaya@stu.upes.ac.in,B.Tech Computer Science,94.0,93,96,94,15,100,94,3.9,Photography Club,Mobile Dev,6,2021
+500074,Ved Reddy,500074.ved@stu.upes.ac.in,B.Tech Computer Science,87.0,81,84,83,12,100,87,3.4,Literary Club,Big Data,6,2021
+500075,Kyra Gupta,500075.kyra@stu.upes.ac.in,B.Tech Computer Science,90.5,87,90,88,14,100,91,3.7,Debate Club,AR/VR,6,2021
+500076,Aarav Kumar,500076.aarav@stu.upes.ac.in,B.Tech Computer Science,93.5,92,95,93,15,100,94,3.8,Art Club,Game Dev,6,2021
+500077,Diya Malhotra,500077.diya@stu.upes.ac.in,B.Tech Computer Science,88.0,83,86,85,13,100,88,3.5,Environment Club,Web Dev,6,2021
+500078,Arjun Verma,500078.arjun@stu.upes.ac.in,B.Tech Computer Science,91.5,89,92,90,14,100,92,3.7,Social Service Club,AI & ML,6,2021
+500079,Zara Joshi,500079.zara@stu.upes.ac.in,B.Tech Computer Science,93.0,91,94,92,15,100,93,3.8,Robotics Club,Cybersecurity,6,2021
+500080,Vihaan Saxena,500080.vihaan@stu.upes.ac.in,B.Tech Computer Science,89.5,85,88,87,13,100,90,3.6,Coding Club,Cloud Computing,6,2021
+500081,Ananya Chopra,500081.ananya@stu.upes.ac.in,B.Tech Computer Science,92.0,89,92,90,14,100,92,3.7,Tech Society,DevOps,6,2021
+500082,Reyansh Mehta,500082.reyansh@stu.upes.ac.in,B.Tech Computer Science,94.5,93,96,94,15,100,95,3.9,Drama Club,Full Stack,6,2021
+500083,Ishaan Sinha,500083.ishaan@stu.upes.ac.in,B.Tech Computer Science,87.5,82,85,84,12,100,88,3.4,Sports Club,IoT,6,2021
+500084,Aisha Bhat,500084.aisha@stu.upes.ac.in,B.Tech Computer Science,90.0,87,90,88,14,100,90,3.7,Dance Club,Mobile Dev,6,2021
+500085,Kabir Kapoor,500085.kabir@stu.upes.ac.in,B.Tech Computer Science,92.5,90,93,91,15,100,93,3.8,Music Club,Big Data,6,2021
+500086,Myra Menon,500086.myra@stu.upes.ac.in,B.Tech Computer Science,88.5,84,87,86,13,100,89,3.5,Photography Club,AR/VR,6,2021
+500087,Advait Choudhury,500087.advait@stu.upes.ac.in,B.Tech Computer Science,91.0,88,91,89,14,100,91,3.7,Literary Club,Game Dev,6,2021
+500088,Saanvi Desai,500088.saanvi@stu.upes.ac.in,B.Tech Computer Science,93.0,91,94,92,15,100,93,3.8,Debate Club,Web Dev,6,2021
+500089,Vivaan Nair,500089.vivaan@stu.upes.ac.in,B.Tech Computer Science,89.0,85,88,87,13,100,89,3.6,Art Club,AI & ML,6,2021
+500090,Anika Roy,500090.anika@stu.upes.ac.in,B.Tech Computer Science,92.0,89,92,90,14,100,92,3.7,Environment Club,Cybersecurity,6,2021
+500091,Dhruv Iyer,500091.dhruv@stu.upes.ac.in,B.Tech Computer Science,94.0,93,96,94,15,100,94,3.9,Social Service Club,Cloud Computing,6,2021
+500092,Riya Rao,500092.riya@stu.upes.ac.in,B.Tech Computer Science,87.0,81,84,83,12,100,87,3.4,Robotics Club,DevOps,6,2021
+500093,Arnav Sharma,500093.arnav@stu.upes.ac.in,B.Tech Computer Science,90.5,87,90,88,14,100,91,3.7,Coding Club,Full Stack,6,2021
+500094,Avni Patel,500094.avni@stu.upes.ac.in,B.Tech Computer Science,93.5,92,95,93,15,100,94,3.8,Tech Society,IoT,6,2021
+500095,Yuvan Singh,500095.yuvan@stu.upes.ac.in,B.Tech Computer Science,88.0,83,86,85,13,100,88,3.5,Drama Club,Mobile Dev,6,2021
+500096,Aaradhya Khan,500096.aaradhya@stu.upes.ac.in,B.Tech Computer Science,91.5,89,92,90,14,100,92,3.7,Sports Club,Big Data,6,2021
+500097,Krish Reddy,500097.krish@stu.upes.ac.in,B.Tech Computer Science,93.0,91,94,92,15,100,93,3.8,Dance Club,AR/VR,6,2021
+500098,Shanaya Gupta,500098.shanaya@stu.upes.ac.in,B.Tech Computer Science,89.5,85,88,87,13,100,90,3.6,Music Club,Game Dev,6,2021
+500099,Ved Kumar,500099.ved@stu.upes.ac.in,B.Tech Computer Science,92.0,89,92,90,14,100,92,3.7,Photography Club,Web Dev,6,2021
+500100,Kyra Malhotra,500100.kyra@stu.upes.ac.in,B.Tech Computer Science,94.5,93,96,94,15,100,95,3.9,Literary Club,AI & ML,6,2021
